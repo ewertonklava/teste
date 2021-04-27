@@ -9,6 +9,7 @@
 
 - Homebrew (macOS)
 ```
+command:
 brew install ruby
 ```
 
