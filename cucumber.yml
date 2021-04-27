@@ -1,0 +1,11 @@
+---
+default: --profile pretty -p homolog -p chrome -p cucumber -p html -p allure -p json
+allure: --format AllureCucumber::CucumberFormatter --out=reports_allure
+pretty: --format pretty
+progress: --format progress
+homolog: ambiente=homolog
+chrome: browser=chrome
+chrome_headless: browser=chrome_headless
+cucumber: --publish-quiet
+html: --format html --out=reports/relatorio.html
+json: --format json --out=reports/relatorio.json

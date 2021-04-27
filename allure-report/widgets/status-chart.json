@@ -1,0 +1,21 @@
+[ {
+  "uid" : "e9b79944c590d543",
+  "name" : "Realizar o login",
+  "time" : {
+    "start" : 1619448742509,
+    "stop" : 1619448746732,
+    "duration" : 4223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb906d49e26bc5c8",
+  "name" : "Usuário e senha invalidos",
+  "time" : {
+    "start" : 1619448746734,
+    "stop" : 1619448747473,
+    "duration" : 739
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

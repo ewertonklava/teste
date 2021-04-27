@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "specs",
+    "children" : [ {
+      "name" : "Realizar o login",
+      "children" : [ {
+        "name" : "Realizar o login",
+        "uid" : "e9b79944c590d543",
+        "parentUid" : "17be5fee5ef023ff74eccfb4b51b1361",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619448742509,
+          "stop" : 1619448746732,
+          "duration" : 4223
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Usuário e senha invalidos",
+        "uid" : "bb906d49e26bc5c8",
+        "parentUid" : "17be5fee5ef023ff74eccfb4b51b1361",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619448746734,
+          "stop" : 1619448747473,
+          "duration" : 739
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "17be5fee5ef023ff74eccfb4b51b1361"
+    } ],
+    "uid" : "18ce8eb42a6160e132c79ba43728f4cb"
+  } ],
+  "name" : "behaviors"
+}

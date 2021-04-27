@@ -1,0 +1,205 @@
+{
+  "uid" : "e9b79944c590d543",
+  "name" : "Realizar o login",
+  "fullName" : "Realizar o login",
+  "historyId" : "5bc73b17e3ad42d8dc511115f460368c",
+  "time" : {
+    "start" : 1619448742509,
+    "stop" : 1619448746732,
+    "duration" : 4223
+  },
+  "description" : "Location - features/specs/exemplo.feature:11",
+  "descriptionHtml" : "Location - features/specs/exemplo.feature:11",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Before hook (cucumber.rb:14)",
+    "time" : {
+      "start" : 1619448742510,
+      "stop" : 1619448742510,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "Before hook (cucumber.rb:22)",
+    "time" : {
+      "start" : 1619448742510,
+      "stop" : 1619448742511,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Location - features/specs/exemplo.feature:11",
+    "descriptionHtml" : "Location - features/specs/exemplo.feature:11",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Dado que o usuario esta na tela de login",
+      "time" : {
+        "start" : 1619448742511,
+        "stop" : 1619448745515,
+        "duration" : 3004
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Quando digito \"standard_user\" e \"secret_sauce\"",
+      "time" : {
+        "start" : 1619448745515,
+        "stop" : 1619448746036,
+        "duration" : 521
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Entao entro no sistema",
+      "time" : {
+        "start" : 1619448746036,
+        "stop" : 1619448746077,
+        "duration" : 41
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "After hook (hooks.rb:1)",
+    "time" : {
+      "start" : 1619448746077,
+      "stop" : 1619448746539,
+      "duration" : 462
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "32be70c69d264258",
+      "name" : "Evidencia",
+      "source" : "32be70c69d264258.png",
+      "type" : "image/png",
+      "size" : 584601
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "After hook (cucumber.rb:10)",
+    "time" : {
+      "start" : 1619448746539,
+      "stop" : 1619448746731,
+      "duration" : 192
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "cucumber"
+  }, {
+    "name" : "package",
+    "value" : "specs"
+  }, {
+    "name" : "testClass",
+    "value" : "exemplo"
+  }, {
+    "name" : "suite",
+    "value" : "Realizar o login"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "epic",
+    "value" : "specs"
+  }, {
+    "name" : "feature",
+    "value" : "Realizar o login"
+  }, {
+    "name" : "tag",
+    "value" : "login"
+  }, {
+    "name" : "tag",
+    "value" : "#nome_responsavel"
+  }, {
+    "name" : "tag",
+    "value" : "Story_jira_rally"
+  }, {
+    "name" : "tag",
+    "value" : "tags"
+  }, {
+    "name" : "tag",
+    "value" : "bvt"
+  }, {
+    "name" : "tag",
+    "value" : "login_valido"
+  }, {
+    "name" : "thread",
+    "value" : "58780"
+  }, {
+    "name" : "host",
+    "value" : "Ewertons-MacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "ruby"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "bvt", "#nome_responsavel", "login_valido", "login", "Story_jira_rally", "tags" ]
+  },
+  "source" : "e9b79944c590d543.json",
+  "parameterValues" : [ ]
+}

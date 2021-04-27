@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'allure-cucumber'
+gem 'allure-rspec'
+gem 'capybara'
+gem 'cpf_faker'
+gem 'cucumber'
+gem 'faker'
+gem 'pry'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'site_prism'

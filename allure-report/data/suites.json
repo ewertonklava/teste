@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Realizar o login",
+    "children" : [ {
+      "name" : "Realizar o login",
+      "uid" : "e9b79944c590d543",
+      "parentUid" : "c30dbfd4de45a73fa0f1a6fecc0897aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619448742509,
+        "stop" : 1619448746732,
+        "duration" : 4223
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Usuário e senha invalidos",
+      "uid" : "bb906d49e26bc5c8",
+      "parentUid" : "c30dbfd4de45a73fa0f1a6fecc0897aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619448746734,
+        "stop" : 1619448747473,
+        "duration" : 739
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c30dbfd4de45a73fa0f1a6fecc0897aa"
+  } ],
+  "name" : "suites"
+}

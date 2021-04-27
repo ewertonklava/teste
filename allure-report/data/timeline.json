@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "Ewertons-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "58780",
+      "children" : [ {
+        "name" : "Realizar o login",
+        "uid" : "e9b79944c590d543",
+        "parentUid" : "dfb50ed2524e442eca94b61f9f89d3ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619448742509,
+          "stop" : 1619448746732,
+          "duration" : 4223
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Usuário e senha invalidos",
+        "uid" : "bb906d49e26bc5c8",
+        "parentUid" : "dfb50ed2524e442eca94b61f9f89d3ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619448746734,
+          "stop" : 1619448747473,
+          "duration" : 739
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dfb50ed2524e442eca94b61f9f89d3ce"
+    } ],
+    "uid" : "6d59d8e1b223b35110b39e5983eca9ae"
+  } ],
+  "name" : "timeline"
+}

@@ -1,0 +1,202 @@
+{
+  "uid" : "bb906d49e26bc5c8",
+  "name" : "Usuário e senha invalidos",
+  "fullName" : "Usuário e senha invalidos",
+  "historyId" : "ac9660a965aae7fbbad70d61ca1dc7e5",
+  "time" : {
+    "start" : 1619448746734,
+    "stop" : 1619448747473,
+    "duration" : 739
+  },
+  "description" : "Location - features/specs/exemplo.feature:20",
+  "descriptionHtml" : "Location - features/specs/exemplo.feature:20",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Before hook (cucumber.rb:14)",
+    "time" : {
+      "start" : 1619448746735,
+      "stop" : 1619448746735,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "Before hook (cucumber.rb:22)",
+    "time" : {
+      "start" : 1619448746735,
+      "stop" : 1619448746736,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Location - features/specs/exemplo.feature:20",
+    "descriptionHtml" : "Location - features/specs/exemplo.feature:20",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Dado que o usuario esta na tela de login",
+      "time" : {
+        "start" : 1619448746736,
+        "stop" : 1619448746805,
+        "duration" : 69
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Quando digito \"locked_out_user\" e \"secret_sauce\"",
+      "time" : {
+        "start" : 1619448746805,
+        "stop" : 1619448747034,
+        "duration" : 229
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Entao me apresenta a seguinte mensagem \"Epic sadface: Sorry, this user has been locked out.\"",
+      "time" : {
+        "start" : 1619448747035,
+        "stop" : 1619448747089,
+        "duration" : 54
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "After hook (hooks.rb:1)",
+    "time" : {
+      "start" : 1619448747089,
+      "stop" : 1619448747271,
+      "duration" : 182
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5828f6388b051f48",
+      "name" : "Evidencia",
+      "source" : "5828f6388b051f48.png",
+      "type" : "image/png",
+      "size" : 181551
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "After hook (cucumber.rb:10)",
+    "time" : {
+      "start" : 1619448747271,
+      "stop" : 1619448747472,
+      "duration" : 201
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "cucumber"
+  }, {
+    "name" : "package",
+    "value" : "specs"
+  }, {
+    "name" : "testClass",
+    "value" : "exemplo"
+  }, {
+    "name" : "suite",
+    "value" : "Realizar o login"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "epic",
+    "value" : "specs"
+  }, {
+    "name" : "feature",
+    "value" : "Realizar o login"
+  }, {
+    "name" : "tag",
+    "value" : "login"
+  }, {
+    "name" : "tag",
+    "value" : "#nome_responsavel"
+  }, {
+    "name" : "tag",
+    "value" : "Story_jira_rally"
+  }, {
+    "name" : "tag",
+    "value" : "tags"
+  }, {
+    "name" : "tag",
+    "value" : "senha_invalida"
+  }, {
+    "name" : "thread",
+    "value" : "58780"
+  }, {
+    "name" : "host",
+    "value" : "Ewertons-MacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "ruby"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "#nome_responsavel", "login", "senha_invalida", "Story_jira_rally", "tags" ]
+  },
+  "source" : "bb906d49e26bc5c8.json",
+  "parameterValues" : [ ]
+}
